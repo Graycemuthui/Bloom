@@ -2,7 +2,6 @@ import { useState } from "react";
 import Login from "./Login";
 import Logout from "./Logout";
 import PrivateText from "./Privatetext";
-
 import Signup from "./Signup";
 
 const User = ({ currUser, setCurrUser }) => {

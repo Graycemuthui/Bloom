@@ -40,7 +40,7 @@ const Login = ({ setCurrUser }) => {
 
   const handleCustomer = (e) => {
     e.preventDefault();
-    window.location.href = "/product";
+    window.location.href = "/survey";
   };
 
   return (
